@@ -11,6 +11,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@az-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/az)
 [![Location](https://img.shields.io/badge/Calgary-AB-9ece6a?style=for-the-badge&logo=map-marker&logoColor=white)](https://calgary.ca)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mizoz.github.io-7aa2f7?style=for-the-badge&logo=firefox&logoColor=white)](https://mizoz.github.io)
+[![Open to Work](https://img.shields.io/badge/Open_to_Work-Backend_%7C_DevTools_%7C_Platform-2ea44f?style=for-the-badge&logo=github&logoColor=white)](mailto:dev@local)
 
 ---
 
@@ -31,6 +32,7 @@ $ timezone
 > MST (America/Edmonton)
 $ available_for
 > Open-source collabs · Tool ideas · Automation chat
+> **Open to Work:** Backend Engineer / DevTools Engineer / Platform Engineer (Remote)
 ```
 
 </div>
@@ -173,6 +175,7 @@ $ available_for
 
 [![GitHub](https://img.shields.io/badge/GitHub-mizoz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mizoz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mizoz.github.io-7aa2f7?style=for-the-badge&logo=firefox&logoColor=white)](https://mizoz.github.io)
+[![Open to Work](https://img.shields.io/badge/Open_to_Work-Backend_%7C_DevTools_%7C_Platform-2ea44f?style=for-the-badge&logo=github&logoColor=white)](mailto:dev@local)
 [![Telegram](https://img.shields.io/badge/Telegram-@az-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/az)
 [![Email](https://img.shields.io/badge/Email-dev@local-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@local)
 
