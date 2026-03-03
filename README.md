@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=venom&height=300&text=Ahmed%20Zani&desc=Developer%20·%20Builder%20·%20Automation%20Enthusiast&fontSize=70&fontColor=ffffff&descriptionSize=28&descriptionColor=ffffff&animation=twinkling&bgColor=0d1117)
+![Profile Banner](https://capsule-render.vercel.app/api?type=venom&height=300&text=Ahmed%20Zalabany&desc=Developer%20·%20Builder%20·%20Automation%20Enthusiast&fontSize=60&fontColor=ffffff&descriptionSize=28&descriptionColor=ffffff&animation=twinkling&bgColor=0d1117)
 
 [![GitHub](https://img.shields.io/badge/GitHub-mizoz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mizoz)
 [![Telegram](https://img.shields.io/badge/Telegram-@az-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/az)
@@ -17,7 +17,7 @@
 
 </div>
 
-## 🎯 Hey, I'm Ahmed Zani
+## 🎯 Hey, I'm Ahmed Zalabany
 
 **I build developer tools that save time.** CLI utilities, automation frameworks, AI integrations — if it makes your workflow faster, I'm interested.
 
@@ -25,7 +25,7 @@
 
 ```bash
 $ whoami
-> Ahmed Zani (mizoz)
+> Ahmed Zalabany (mizoz)
 $ current_status
 > Building OpenClaw automation stack
 $ location
