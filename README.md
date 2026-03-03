@@ -47,7 +47,7 @@ $ available_for
 
 | Project | Description | Status | Links |
 |---------|-------------|--------|-------|
-| **[GIT-UP](https://github.com/mizoz/04-Scripts/tree/main/git-up)** | Automated GitHub portfolio activator — 50 repos, drip-fed commits | 🟢 Active | [Repo](https://github.com/mizoz/04-Scripts) |
+| **[GIT-UP](https://github.com/mizoz/openclaw-model-routing)** | Automated GitHub portfolio activator — 50 repos, drip-fed commits | 🟢 Active | [Repo](https://github.com/mizoz/openclaw-model-routing) |
 | **[OpenClaw Skills](https://github.com/mizoz/openclaw-skill-pack)** | AI agent skills for automation (X posting, monitoring, GitHub) | 🟢 Active | [Skills](https://github.com/mizoz/openclaw-skill-pack) · [Docs](https://github.com/mizoz/openclaw) |
 | **[CLI Tools Collection](https://github.com/mizoz?tab=repositories)** | 20+ Node.js/Python utilities for developers | 🟢 Maintained | [Browse All](https://github.com/mizoz?tab=repositories) |
 
