@@ -5,7 +5,7 @@
 
 <div align="center">
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=venom&height=300&text=mizoz&desc=Developer%20·%20Builder%20·%20Automation%20Enthusiast&fontSize=90&fontColor=7aa2f7&descriptionSize=30&descriptionColor=9ece6a&animation=twinkling)
+![Profile Banner](https://capsule-render.vercel.app/api?type=venom&height=300&text=mizoz&desc=Developer%20·%20Builder%20·%20Automation%20Enthusiast&fontSize=90&fontColor=ffffff&descriptionSize=30&descriptionColor=ffffff&animation=twinkling&bgColor=0d1117)
 
 [![GitHub](https://img.shields.io/badge/GitHub-mizoz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mizoz)
 [![Telegram](https://img.shields.io/badge/Telegram-@az-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/az)
@@ -47,8 +47,8 @@ $ available_for
 
 | Project | Description | Status | Links |
 |---------|-------------|--------|-------|
-| **[GIT-UP](https://github.com/mizoz/04-Scripts/tree/main/git-up)** | Automated GitHub portfolio activator — 50 repos, drip-fed commits | 🟢 Active | [Repo](https://github.com/mizoz/04-Scripts) · [Demo](#) |
-| **[OpenClaw Skills](https://github.com/mizoz)** | AI agent skills for automation (X posting, monitoring, GitHub) | 🟢 Active | [Docs](#) · [Skills](#) |
+| **[GIT-UP](https://github.com/mizoz/04-Scripts/tree/main/git-up)** | Automated GitHub portfolio activator — 50 repos, drip-fed commits | 🟢 Active | [Repo](https://github.com/mizoz/04-Scripts) |
+| **[OpenClaw Skills](https://github.com/mizoz/openclaw-skill-pack)** | AI agent skills for automation (X posting, monitoring, GitHub) | 🟢 Active | [Skills](https://github.com/mizoz/openclaw-skill-pack) · [Docs](https://github.com/mizoz/openclaw) |
 | **[CLI Tools Collection](https://github.com/mizoz?tab=repositories)** | 20+ Node.js/Python utilities for developers | 🟢 Maintained | [Browse All](https://github.com/mizoz?tab=repositories) |
 
 ### 🛠️ Popular Tools
@@ -61,12 +61,12 @@ $ available_for
 
 | Tool | Purpose | Stack |
 |------|---------|-------|
-| [`base64-tool-nodejs`](https://github.com/mizoz/base64-tool-nodejs) | Base64 encode/decode CLI | Node.js |
-| [`json-prettifier`](https://github.com/mizoz) | JSON formatting utility | Node.js |
-| [`file-watcher`](https://github.com/mizoz) | Real-time file system monitoring | Node.js |
-| [`password-generator`](https://github.com/mizoz) | Secure password generation | Python |
-| [`csv-viewer`](https://github.com/mizoz) | Terminal CSV viewer | Python |
-| [`quick-notes`](https://github.com/mizoz) | Fast note-taking CLI | Node.js |
+| [`json-prettifier-nodejs`](https://github.com/mizoz/json-prettifier-nodejs) | JSON formatting utility | Node.js |
+| [`file-watcher-python`](https://github.com/mizoz/file-watcher-python) | Real-time file system monitoring | Python |
+| [`batch-renamer`](https://github.com/mizoz/batch-renamer) | Batch file renaming tool | Node.js |
+| [`changelog-generator`](https://github.com/mizoz/changelog-generator) | Auto-generate changelogs | Node.js |
+| [`code-stats-cli`](https://github.com/mizoz/code-stats-cli) | Track coding statistics | Node.js |
+| [`quick-note-python`](https://github.com/mizoz/quick-note-python) | Fast note-taking CLI | Python |
 
 </div>
 
@@ -199,7 +199,7 @@ $ available_for
          |____|
 
    "Your AI familiar in the machine"
-   
+
    Powered by OpenClaw · Built in Calgary · Automated with ❤️
 ```
 
@@ -213,6 +213,6 @@ $ available_for
 <!--
   Thanks for visiting! 
   If you found something cool, drop a star ⭐
-  
+
   Built with too much coffee and OpenClaw automation 🤖
 -->
