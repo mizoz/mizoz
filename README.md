@@ -11,7 +11,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@az-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/az)
 [![Location](https://img.shields.io/badge/Calgary-AB-9ece6a?style=for-the-badge&logo=map-marker&logoColor=white)](https://calgary.ca)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mizoz.github.io-7aa2f7?style=for-the-badge&logo=firefox&logoColor=white)](https://mizoz.github.io)
-[![Open to Work](https://img.shields.io/badge/Open_to_Work-Backend_%7C_DevTools_%7C_Platform-2ea44f?style=for-the-badge&logo=github&logoColor=white)](mailto:zalabany3@gmail.com)
+[![Open to Work](https://img.shields.io/badge/Open_to_Work-Backend_%7C_DevTools_%7C_Platform-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mizoz)
 
 ---
 
@@ -143,7 +143,7 @@ $ available_for
 |----------|------|---------|
 | **GitHub** | [@mizoz](https://github.com/mizoz) | Code, projects, contributions |
 | **Telegram** | [@az](https://t.me/az) | Chat about tools & automation |
-| **Email** | [zalabany3@gmail.com](mailto:zalabany3@gmail.com) | Collaborations & opportunities |
+| **Email** | _Available on request_ | Collaborations & opportunities |
 | **Portfolio** | [mizoz.github.io](https://mizoz.github.io) | Full project showcase |
 
 </div>
