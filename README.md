@@ -27,7 +27,7 @@
 $ whoami
 > Ahmed Zalabany (mizoz)
 $ current_status
-> Building OpenClaw automation stack
+> Building ZalaStack — Multi-tenant ad operations platform
 $ location
 > Calgary, Alberta 🇨🇦
 $ timezone
@@ -49,9 +49,32 @@ $ available_for
 
 | Project | Description | Status | Links |
 |---------|-------------|--------|-------|
+| **[ZalaStack](https://github.com/mizoz/zalastack)** | Multi-tenant ad operations platform — Meta, Google, LinkedIn, TikTok | 🟢 Production | [Repo](https://github.com/mizoz/zalastack) · [Dashboard](https://app.zalastack.com) · [API](https://api.zalastack.com/docs) |
 | **[OpenClaw](https://github.com/openclaw/openclaw)** | Personal AI assistant framework — run your own assistant anywhere | 🟢 Active | [Repo](https://github.com/openclaw/openclaw) · [Docs](https://docs.openclaw.ai) |
 | **[CLI Toolkit](https://github.com/mizoz/cli-toolkit)** | 30+ unified CLI utilities for developers (Node.js + Python) | 🟢 Active | [Browse Tools](https://github.com/mizoz/cli-toolkit) |
 | **[Lightroom Vision](https://github.com/mizoz/lightroom-vision-plugin)** | AI photo organization for Lightroom Classic | 🟢 Active | [Plugin](https://github.com/mizoz/lightroom-vision-plugin) · [Service](https://github.com/mizoz/lightroom-vision-service) |
+
+### 📦 Published Packages
+
+#### npm Packages
+
+[![npm](https://img.shields.io/npm/v/@zalastack/ads-sdk?style=for-the-badge&logo=npm&color=cb3837)](https://www.npmjs.com/package/@zalastack/ads-sdk)
+
+```bash
+npm install @zalastack/ads-sdk
+```
+
+**Multi-platform advertising SDK** — Manage campaigns across Meta, Google, LinkedIn, and TikTok with a unified API.
+
+#### Docker Images
+
+[![Docker Image Size](https://img.shields.io/docker/image-size/zalastack/cli?style=for-the-badge&logo=docker)](https://hub.docker.com/r/zalastack/cli)
+[![Docker Image Size](https://img.shields.io/docker/image-size/zalastack/sdk?style=for-the-badge&logo=docker)](https://hub.docker.com/r/zalastack/sdk)
+
+```bash
+docker pull zalastack/cli:latest
+docker pull zalastack/sdk:latest
+```
 
 ### 🛠️ Popular Tools (Consolidated)
 
@@ -102,6 +125,14 @@ $ available_for
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES2024-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.3-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+### Backend & Cloud
+
+![Cloudflare](https://img.shields.io/badge/Cloudflare-Pages%20%7C%20Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-Authentication-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-API%20Framework-E36002?style=for-the-badge&logo=hono&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-24.0-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ### AI & Automation
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -111,7 +142,6 @@ $ available_for
 ### Tools & Platforms
 
 ![GitHub](https://img.shields.io/badge/GitHub-CLI-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-24.0-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Pop!_OS-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Tailscale](https://img.shields.io/badge/Tailscale-VPN-14172A?style=for-the-badge&logo=tailscale&logoColor=white)
 
@@ -125,11 +155,13 @@ $ available_for
 
 | Achievement | Date | Details |
 |-------------|------|---------|
+| 🚀 **ZalaStack Production Launch** | 2026-03 | Full stack deployed (Cloudflare + Supabase + Clerk) |
+| 📦 **npm Packages Published** | 2026-03 | `@zalastack/ads-sdk` v1.0.0 released |
+| 🐳 **Docker Images Published** | 2026-03 | `zalastack/cli`, `zalastack/sdk` on Docker Hub |
+| 🏗️ **27 API Endpoints Built** | 2026-03 | Campaigns, health, vault, analytics endpoints |
+| 🤖 **12 Subagents in Parallel** | 2026-03 | Rapid development with OpenClaw orchestration |
 | 🏗️ **CLI Toolkit Monorepo** | 2026-03 | Consolidated 30 utility repos into unified monorepo |
 | 🧹 **GitHub Optimization** | 2026-03 | Cleaned 725+ stale branches, enabled branch protection |
-| 🤖 **OpenClaw Skills** | 2026-02 | Built X posting, monitoring, and GitHub automation workflows |
-| 🎯 **GIT-UP System** | 2026-02 | Automated deployment system for 50+ repositories |
-| 🦎 **Lightroom Vision** | 2026-02 | Launched AI photo organization plugin + service |
 
 </div>
 
