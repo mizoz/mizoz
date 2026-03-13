@@ -1,17 +1,17 @@
 <!--
   👋 Welcome to my corner of GitHub
-  Built with too much ☕ and OpenClaw 🤖
+  Built with too much ☕ and way too many terminals
 -->
 
 <div align="center">
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=venom&height=300&text=Ahmed%20Zalabany&desc=Developer%20·%20Builder%20·%20Automation%20Enthusiast&fontSize=60&fontColor=ffffff&descriptionSize=28&descriptionColor=ffffff&animation=twinkling&bgColor=0d1117)
+![Profile Banner](https://capsule-render.vercel.app/api?type=venom&height=300&text=Ahmed%20Zalabany&desc=Backend%20Engineer%20·%20Platform%20Builder%20·%20Data%20Nerd&fontSize=60&fontColor=ffffff&descriptionSize=28&descriptionColor=ffffff&animation=twinkling&bgColor=0d1117)
 
 [![GitHub](https://img.shields.io/badge/GitHub-mizoz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mizoz)
 [![Telegram](https://img.shields.io/badge/Telegram-@az-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/az)
 [![Location](https://img.shields.io/badge/Calgary-AB-9ece6a?style=for-the-badge&logo=map-marker&logoColor=white)](https://calgary.ca)
 [![Portfolio](https://img.shields.io/badge/Portfolio-mizoz.github.io-7aa2f7?style=for-the-badge&logo=firefox&logoColor=white)](https://mizoz.github.io)
-[![Open to Work](https://img.shields.io/badge/Open_to_Work-Backend_%7C_DevTools_%7C_Platform-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mizoz)
+[![Open to Work](https://img.shields.io/badge/Open_to_Work-Backend_%7C_Platform_%7C_DevTools-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mizoz)
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## 🎯 Hey, I'm Ahmed Zalabany
 
-**I build developer tools that save time.** CLI utilities, automation frameworks, AI integrations — if it makes your workflow faster, I'm interested.
+**I build backend systems and data platforms that scale.** Multi-tenant architectures, analytics dashboards, developer tooling — if it handles real-world complexity, I'm interested.
 
 <div align="center">
 
@@ -27,14 +27,14 @@
 $ whoami
 > Ahmed Zalabany (mizoz)
 $ current_status
-> Building ZalaStack — Multi-tenant ad operations platform
+> Building ZalaStack — Multi-tenant ad operations platform (Q2 2026)
 $ location
 > Calgary, Alberta 🇨🇦
 $ timezone
 > MST (America/Edmonton)
 $ available_for
-> Open-source collabs · Tool ideas · Automation chat
-> **Open to Work:** Backend Engineer / DevTools Engineer / Platform Engineer (Remote)
+> Backend Engineering · Platform Engineering · DevTools · Data Infrastructure
+> **Open to Work:** Remote-first, impactful teams only
 ```
 
 </div>
@@ -49,10 +49,10 @@ $ available_for
 
 | Project | Description | Status | Links |
 |---------|-------------|--------|-------|
-| **[ZalaStack](https://github.com/mizoz/zalastack)** | Multi-tenant ad operations platform — Meta, Google, LinkedIn, TikTok | 🟢 Production | [Repo](https://github.com/mizoz/zalastack) · [Dashboard](https://app.zalastack.com) · [API](https://api.zalastack.com/docs) |
-| **[OpenClaw](https://github.com/openclaw/openclaw)** | Personal AI assistant framework — run your own assistant anywhere | 🟢 Active | [Repo](https://github.com/openclaw/openclaw) · [Docs](https://docs.openclaw.ai) |
+| **[ZalaStack](https://github.com/mizoz/zalastack)** | Multi-tenant ad operations platform — Meta, Google, LinkedIn, TikTok unified API | 🟢 Production | [Repo](https://github.com/mizoz/zalastack) · [SDK](https://npmjs.com/package/@zalastack/ads-sdk) |
+| **[Impact Analytics](https://github.com/mizoz/impact-dashboard)** | Real-time analytics dashboard — 20K+ assets, 500K+ rows processed, unified KPIs | 🟢 Live | [Demo](https://impact.zalastack.com) · [Case Study](#-impact-analytics-case-study) |
 | **[CLI Toolkit](https://github.com/mizoz/cli-toolkit)** | 30+ unified CLI utilities for developers (Node.js + Python) | 🟢 Active | [Browse Tools](https://github.com/mizoz/cli-toolkit) |
-| **[Lightroom Vision](https://github.com/mizoz/lightroom-vision-plugin)** | AI photo organization for Lightroom Classic | 🟢 Active | [Plugin](https://github.com/mizoz/lightroom-vision-plugin) · [Service](https://github.com/mizoz/lightroom-vision-service) |
+| **[Lightroom Vision](https://github.com/mizoz/lightroom-vision-plugin)** | AI photo organization for Lightroom Classic | 🟢 Active | [Plugin](https://github.com/mizoz/lightroom-vision-plugin) |
 
 ### 📦 Published Packages
 
@@ -64,7 +64,7 @@ $ available_for
 npm install @zalastack/ads-sdk
 ```
 
-**Multi-platform advertising SDK** — Manage campaigns across Meta, Google, LinkedIn, and TikTok with a unified API.
+**Multi-platform advertising SDK** — Unified API for Meta, Google, LinkedIn, and TikTok campaign management.
 
 #### Docker Images
 
@@ -76,11 +76,11 @@ docker pull zalastack/cli:latest
 docker pull zalastack/sdk:latest
 ```
 
-### 🛠️ Popular Tools (Consolidated)
+### 🛠️ Developer Tools (Consolidated)
 
 ![GitHub Stars](https://img.shields.io/github/stars/mizoz/cli-toolkit?style=for-the-badge&logo=github&color=7aa2f7)
 
-> All my standalone CLI utilities have been consolidated into the **[CLI Toolkit](https://github.com/mizoz/cli-toolkit)** monorepo for easier maintenance and discovery.
+> All my standalone CLI utilities consolidated into one **[CLI Toolkit](https://github.com/mizoz/cli-toolkit)** monorepo.
 
 </div>
 
@@ -95,6 +95,31 @@ docker pull zalastack/sdk:latest
 | **Generators** | boilerplate-generator, changelog-generator, code-stats-cli | Node.js + Python |
 
 </div>
+
+---
+
+## 📊 Impact Analytics — Case Study
+
+**Problem:** 550K+ rows of asset data, no unified view, no KPIs, no way to measure individual or team contribution.
+
+**Solution:** Built a real-time analytics dashboard that processes, aggregates, and visualizes organizational impact.
+
+<div align="center">
+
+| Metric | Value |
+|--------|-------|
+| **Data Processed** | 550K+ rows → 20,518 validated assets |
+| **Users Tracked** | 36 contributors with individual KPIs |
+| **Metrics Calculated** | 109 automated KPIs (uploads, views, downloads, financial impact) |
+| **Top Contributor** | 7,957 assets (38.8% of total), 5.7x average productivity |
+| **Financial Impact** | ~$1.2M documented cost avoidance |
+| **Tech Stack** | Next.js 14, PostgreSQL, Cloudflare Tunnel, Streamlit |
+
+</div>
+
+**Outcome:** Single source of truth for leadership, quantified individual contributions, data-driven role alignment discussions.
+
+**Live Demo:** [impact.zalastack.com](https://impact.zalastack.com)
 
 ---
 
@@ -133,10 +158,17 @@ docker pull zalastack/sdk:latest
 ![Hono](https://img.shields.io/badge/Hono-API%20Framework-E36002?style=for-the-badge&logo=hono&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-24.0-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### Data & Analytics
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-3.42-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.30-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-4.4-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
 ### AI & Automation
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Alibaba Cloud](https://img.shields.io/badge/Alibaba%20Cloud-Qwen/TOOL-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
+![Alibaba Cloud](https://img.shields.io/badge/Alibaba%20Cloud-Qwen-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### Tools & Platforms
@@ -158,8 +190,8 @@ docker pull zalastack/sdk:latest
 | 🚀 **ZalaStack Production Launch** | 2026-03 | Full stack deployed (Cloudflare + Supabase + Clerk) |
 | 📦 **npm Packages Published** | 2026-03 | `@zalastack/ads-sdk` v1.0.0 released |
 | 🐳 **Docker Images Published** | 2026-03 | `zalastack/cli`, `zalastack/sdk` on Docker Hub |
+| 📊 **Impact Analytics Dashboard** | 2026-03 | 550K+ rows processed, 109 KPIs, live at impact.zalastack.com |
 | 🏗️ **27 API Endpoints Built** | 2026-03 | Campaigns, health, vault, analytics endpoints |
-| 🤖 **12 Subagents in Parallel** | 2026-03 | Rapid development with OpenClaw orchestration |
 | 🏗️ **CLI Toolkit Monorepo** | 2026-03 | Consolidated 30 utility repos into unified monorepo |
 | 🧹 **GitHub Optimization** | 2026-03 | Cleaned 725+ stale branches, enabled branch protection |
 
@@ -188,16 +220,16 @@ docker pull zalastack/sdk:latest
 
 ---
 
-**💡 Open for:** Backend Engineering · DevTools · Platform Engineering · Automation Projects
+**💡 Open for:** Backend Engineering · Platform Engineering · Data Infrastructure · DevTools
 
 **📍 Based in:** Calgary, Alberta, Canada (MST)
 
-**🦎 Fun fact:** I named my automation framework "OpenClaw" because lobsters are nature's developers — they exfoliate, adapt, and survive.
+**🚛 Fun fact:** I unwind by reading truck forums and planning my next build. Nothing clears the head like thinking about torque specs.
 
 ---
 
 <p align="center">
-  <sub>Built with too much ☕ and 🤖 automation</sub>
+  <sub>Built with too much ☕ and way too many terminals</sub>
 </p>
 
 </div>
