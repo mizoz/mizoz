@@ -8,7 +8,7 @@
 Founder of **[FirstShow](https://firstshow.ca)**. I make websites, brands, videos and weird little tools, then I ship them.
 Based in Calgary, open to **any job, anywhere**. If it's fun, I'm in.
 
-🚪 **[mizoz.github.io](https://mizoz.github.io)** ← pick your Ahmed: the [polished portfolio](https://mizoz.github.io/pro/) or [the mayhem](https://mizoz.github.io/mayhem/). choose wisely.
+🧪 **[lab.zalastack.com](https://lab.zalastack.com)** ← ask it anything (a tiny model i trained runs right in your browser), open the terminal with `~`, or pick your Ahmed: [polished](https://lab.zalastack.com/pro/) or [the mayhem](https://lab.zalastack.com/mayhem/).
 
 ---
 
@@ -28,19 +28,19 @@ Based in Calgary, open to **any job, anywhere**. If it's fun, I'm in.
 
 | | |
 |---|---|
-| 🖼️ **[Social Image Sizer](https://mizoz.github.io/social-image-sizer/)** | one image, every social media size, one zip |
-| 💬 **[Post Preview](https://mizoz.github.io/post-preview/)** | see your post on LinkedIn, X, Instagram, Threads, Facebook and Bluesky before posting |
-| 🔗 **[UTM Builder](https://mizoz.github.io/utm-builder/)** | clean UTM links, GA4 channel check, QR codes |
-| 🪧 **[Link Preview Checker](https://mizoz.github.io/og-preview/)** | fix how your links look when shared |
-| ♿ **[Alt Text Checker](https://mizoz.github.io/alt-text-checker/)** | find images missing alt text on any page |
-| ✉️ **[Email Signature Generator](https://mizoz.github.io/email-signature/)** | Gmail, Outlook, Apple Mail. no watermark |
-| 🎤 **[Run of Show Builder](https://mizoz.github.io/run-of-show/)** | plan an event minute by minute, run it live |
-| 🤝 **[Sponsorship Builder](https://mizoz.github.io/sponsorship-builder/)** | price sponsor tiers, print the sponsor sheet |
-| 📡 **[Stream Calculator](https://mizoz.github.io/stream-calc/)** | live stream bitrate, bandwidth and file size |
+| 🖼️ **[Social Image Sizer](https://lab.zalastack.com/social-image-sizer/)** | one image, every social media size, one zip |
+| 💬 **[Post Preview](https://lab.zalastack.com/post-preview/)** | see your post on LinkedIn, X, Instagram, Threads, Facebook and Bluesky before posting |
+| 🔗 **[UTM Builder](https://lab.zalastack.com/utm-builder/)** | clean UTM links, GA4 channel check, QR codes |
+| 🪧 **[Link Preview Checker](https://lab.zalastack.com/og-preview/)** | fix how your links look when shared |
+| ♿ **[Alt Text Checker](https://lab.zalastack.com/alt-text-checker/)** | find images missing alt text on any page |
+| ✉️ **[Email Signature Generator](https://lab.zalastack.com/email-signature/)** | Gmail, Outlook, Apple Mail. no watermark |
+| 🎤 **[Run of Show Builder](https://lab.zalastack.com/run-of-show/)** | plan an event minute by minute, run it live |
+| 🤝 **[Sponsorship Builder](https://lab.zalastack.com/sponsorship-builder/)** | price sponsor tiers, print the sponsor sheet |
+| 📡 **[Stream Calculator](https://lab.zalastack.com/stream-calc/)** | live stream bitrate, bandwidth and file size |
 
 ### 🛠️ things i built for fun
 
-[NeonGrid](https://mizoz.github.io/neongrid/) (a city-builder game, **play it**) · [YYC Flight Radar](https://github.com/mizoz/yyc-flight-radar) · [Deal Scout](https://github.com/mizoz/dealscout) · [YYC Patio Finder](https://github.com/mizoz/yyc-patio-finder) · [Calgary Coffee Trail](https://github.com/mizoz/calgary-coffee-trail) · [ContextCRM](https://github.com/mizoz/context-crm) · [COSMIC Dictate](https://github.com/mizoz/cosmic-dictate) · [Alberta Atlas](https://github.com/mizoz/alberta-atlas)
+[NeonGrid](https://lab.zalastack.com/neongrid/) (a city-builder game, **play it**) · [YYC Flight Radar](https://github.com/mizoz/yyc-flight-radar) · [Deal Scout](https://github.com/mizoz/dealscout) · [YYC Patio Finder](https://github.com/mizoz/yyc-patio-finder) · [Calgary Coffee Trail](https://github.com/mizoz/calgary-coffee-trail) · [ContextCRM](https://github.com/mizoz/context-crm) · [COSMIC Dictate](https://github.com/mizoz/cosmic-dictate) · [Alberta Atlas](https://github.com/mizoz/alberta-atlas)
 
 ### 🎒 what's in the backpack
 
@@ -48,4 +48,4 @@ Based in Calgary, open to **any job, anywhere**. If it's fun, I'm in.
 
 ### 📬 say hi
 
-[LinkedIn](https://www.linkedin.com/in/ahmed-m-82ba28169/) · [homepage](https://mizoz.github.io) · got a job, a project or a weird idea? i'm listening.
+[LinkedIn](https://www.linkedin.com/in/ahmed-m-82ba28169/) · [homepage](https://lab.zalastack.com) · got a job, a project or a weird idea? i'm listening.
