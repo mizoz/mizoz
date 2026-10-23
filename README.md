@@ -1,57 +1,54 @@
-```
- ▄▀█ █ █ █▀▄▀█ █▀▀ █▀▄   █▀▄▀█ ▄▀█ █ █ █▀▄▀█ █▀█ █ █ █▀▄
- █▀█ █▀█ █ ▀ █ ██▄ █▄▀   █ ▀ █ █▀█ █▀█ █ ▀ █ █▄█ █▄█ █▄▀
-```
+# Ahmed Mahmoud
 
-### hi, i'm ahmed 👋
+**Founder · product builder · Calgary, Canada**
 
-Founder of **[FirstShow](https://firstshow.ca)**. I make websites, brands, videos and weird little tools, then I ship them.
-Based in Calgary, open to **any job, anywhere**. If it's fun, I'm in.
+I take ideas from first sketch to something people can use: products, websites, brands, video, and practical tools. I’m the founder of **[FirstShow](https://firstshow.ca)**, and I’m open to good roles, projects, and collaborations anywhere.
 
-🧪 **[lab.zalastack.com](https://lab.zalastack.com)** ← ask it anything (a tiny model i trained runs right in your browser), open the terminal with `~`, or pick your Ahmed: [polished](https://lab.zalastack.com/pro/) or [the mayhem](https://lab.zalastack.com/mayhem/).
+## 🧪 My baby project: [Fieldbook Learning](https://www.fieldbooklearning.com)
 
----
+**Hands-on science lessons your class can do tomorrow.** Fieldbook helps teachers and home educators turn real questions into practical investigations using familiar materials.
 
-### 🧪 my baby project: [Fieldbook Learning](https://www.fieldbooklearning.com)
+- **Kindergarten to Grade 12**, with curriculum-aligned units
+- A simple five-part lesson flow, with teacher guides and student sheets ready to print
+- English and French editions
+- **[Try three lessons free →](https://www.fieldbooklearning.com)**
 
-Hands-on, curriculum-aligned science lessons teachers can teach tomorrow. Built for classrooms and home educators, from Kindergarten to Grade 12, with classroom-ready printables and English and French editions. **[Take a look →](https://www.fieldbooklearning.com)**
+It’s the project I care about most. **[Take a look at Fieldbook Learning](https://www.fieldbooklearning.com).**
 
----
+## 🚀 Other things I’ve launched
 
-### 🚀 things i've launched
-
-| | |
+| Project | What it does |
 |---|---|
-| 🎪 **[FirstShow](https://firstshow.ca)** | sponsorship department for events, creators and venues across Canada |
-| 📸 **[FRAME YYC](https://frameyyc.ca)** | photo and video for Calgary businesses |
-| 🍔 **[Bite5](https://bite5.vercel.app)** | targeted local food deals for restaurants |
-| 🎬 **[Wiredeo](https://www.wiredeo.com)** | turn one offer into a shoot-ready storyboard, script and shot list |
-| 🗂️ **[SteadyFile](https://workvault-six.vercel.app)** | a private, dated record you keep as things happen |
-| 🧭 **[ZalaStack](https://www.zalastack.com)** | business strategy, built into action |
-| 🏊 **[YYC Class Finder](https://city-picks.vercel.app)** | every City of Calgary rec program, searchable |
+| [FirstShow](https://firstshow.ca) | Sponsorship for events, creators, and venues across Canada |
+| [FRAME YYC](https://frameyyc.ca) | Photo and video for Calgary businesses |
+| [Wiredeo](https://www.wiredeo.com) | Turns an offer into a shoot-ready storyboard, script, and shot list |
+| [Bite5](https://bite5.vercel.app) | Local food deals for Calgary restaurants |
+| [SteadyFile](https://workvault-six.vercel.app) | A private, dated record for important life and work events |
+| [ZalaStack](https://www.zalastack.com) | Business strategy turned into action |
+| [YYC Class Finder](https://city-picks.vercel.app) | Search Calgary recreation programs in one place |
 
-### 🧰 free tools i made (no sign-up, nothing leaves your browser)
+## 🧰 Free tools
 
-| | |
-|---|---|
-| 🖼️ **[Social Image Sizer](https://lab.zalastack.com/social-image-sizer/)** | one image, every social media size, one zip |
-| 💬 **[Post Preview](https://lab.zalastack.com/post-preview/)** | see your post on LinkedIn, X, Instagram, Threads, Facebook and Bluesky before posting |
-| 🔗 **[UTM Builder](https://lab.zalastack.com/utm-builder/)** | clean UTM links, GA4 channel check, QR codes |
-| 🪧 **[Link Preview Checker](https://lab.zalastack.com/og-preview/)** | fix how your links look when shared |
-| ♿ **[Alt Text Checker](https://lab.zalastack.com/alt-text-checker/)** | find images missing alt text on any page |
-| ✉️ **[Email Signature Generator](https://lab.zalastack.com/email-signature/)** | Gmail, Outlook, Apple Mail. no watermark |
-| 🎤 **[Run of Show Builder](https://lab.zalastack.com/run-of-show/)** | plan an event minute by minute, run it live |
-| 🤝 **[Sponsorship Builder](https://lab.zalastack.com/sponsorship-builder/)** | price sponsor tiers, print the sponsor sheet |
-| 📡 **[Stream Calculator](https://lab.zalastack.com/stream-calc/)** | live stream bitrate, bandwidth and file size |
+No sign-up; your files stay in your browser.
 
-### 🛠️ things i built for fun
+- [Social Image Sizer](https://lab.zalastack.com/social-image-sizer/) · one image, every social size
+- [Post Preview](https://lab.zalastack.com/post-preview/) · preview posts across major social platforms
+- [UTM Builder](https://lab.zalastack.com/utm-builder/) · build tagged links and QR codes
+- [Link Preview Checker](https://lab.zalastack.com/og-preview/) · check how a link appears when shared
+- [Alt Text Checker](https://lab.zalastack.com/alt-text-checker/) · find images missing alt text
+- [Email Signature Generator](https://lab.zalastack.com/email-signature/) · create email signatures without a watermark
+- [Run of Show Builder](https://lab.zalastack.com/run-of-show/) · plan and run an event minute by minute
+- [Sponsorship Builder](https://lab.zalastack.com/sponsorship-builder/) · price tiers and make a sponsor sheet
+- [Stream Calculator](https://lab.zalastack.com/stream-calc/) · estimate bitrate, bandwidth, and file size
 
-[NeonGrid](https://lab.zalastack.com/neongrid/) (a city-builder game, **play it**) · [YYC Flight Radar](https://github.com/mizoz/yyc-flight-radar) · [Deal Scout](https://github.com/mizoz/dealscout) · [YYC Patio Finder](https://github.com/mizoz/yyc-patio-finder) · [Calgary Coffee Trail](https://github.com/mizoz/calgary-coffee-trail) · [ContextCRM](https://github.com/mizoz/context-crm) · [COSMIC Dictate](https://github.com/mizoz/cosmic-dictate) · [Alberta Atlas](https://github.com/mizoz/alberta-atlas)
+## 🛠️ Built for fun
 
-### 🎒 what's in the backpack
+[NeonGrid](https://lab.zalastack.com/neongrid/) · [YYC Flight Radar](https://github.com/mizoz/yyc-flight-radar) · [Deal Scout](https://github.com/mizoz/dealscout) · [YYC Patio Finder](https://github.com/mizoz/yyc-patio-finder) · [Calgary Coffee Trail](https://github.com/mizoz/calgary-coffee-trail) · [ContextCRM](https://github.com/mizoz/context-crm) · [COSMIC Dictate](https://github.com/mizoz/cosmic-dictate) · [Alberta Atlas](https://github.com/mizoz/alberta-atlas)
 
-`video` `photo` `live streams` `websites` `branding` `social` `Premiere` `After Effects` `Photoshop` `Lightroom` `WordPress` `Next.js` `Python` `Go` `Google Ads` `HubSpot`
+## 🎒 What I bring
 
-### 📬 say hi
+`product building` `websites` `branding` `video` `photography` `live streams` `social` `Premiere` `After Effects` `Photoshop` `Lightroom` `WordPress` `Next.js` `Python` `Go` `Google Ads` `HubSpot`
 
-[LinkedIn](https://www.linkedin.com/in/ahmed-m-82ba28169/) · [homepage](https://lab.zalastack.com) · got a job, a project or a weird idea? i'm listening.
+## 👋 Say hi
+
+[LinkedIn](https://www.linkedin.com/in/ahmed-m-82ba28169/) · [My workbench](https://lab.zalastack.com)
