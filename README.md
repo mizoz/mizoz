@@ -12,6 +12,12 @@ Based in Calgary, open to **any job, anywhere**. If it's fun, I'm in.
 
 ---
 
+### 🧪 my baby project: [Fieldbook Learning](https://www.fieldbooklearning.com)
+
+Hands-on, curriculum-aligned science lessons teachers can teach tomorrow. Built for classrooms and home educators, from Kindergarten to Grade 12, with classroom-ready printables and English and French editions. **[Take a look →](https://www.fieldbooklearning.com)**
+
+---
+
 ### 🚀 things i've launched
 
 | | |
